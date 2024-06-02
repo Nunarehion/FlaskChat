@@ -1,0 +1,21 @@
+* {
+    outline: 1px solid orangered
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 100vw;
+    height: 100vh;
+    background: #1b1b1b;
+    color:aliceblue
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
